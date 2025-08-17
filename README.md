@@ -15,13 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ashwinasthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashwinasthana" height="30" width="40" /></a>
-<a href="https://twitter.com/ashwinasthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwinasthana" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashwinasthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwinasthana" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ashwinasthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashwinasthana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashwinasthanax/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwinasthana" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/31292425/ashwin-asthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashwinasthana" height="30" width="40" /></a>
 <a href="https://instagram.com/ashwinasthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashwinasthana" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ashwinasthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashwinasthana" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashwinasthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashwinasthana" height="30" width="40" /></a>
+<a href="https://youtube.com/@ashwinasthanax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashwinasthana" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ashwinasthanax/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashwinasthana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
