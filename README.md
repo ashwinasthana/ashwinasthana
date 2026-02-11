@@ -2,33 +2,47 @@
 <h3 align="center">A passionate full-stack developer and cyber security analyst from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwinasthana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ashwinasthana&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🌱 I'm currently learning **Assembly**
+🌱 I’m currently learning **Assembly**
 💬 Ask me about **C, Python, Kubernetes**
 📫 Reach me at **[ashwinasthanax@gmail.com](mailto:ashwinasthanax@gmail.com)**
-⚡ Fun fact: **I'm a unique triple threat, with skills in full-stack development, cybersecurity, and academic research**
+⚡ Fun fact: **Full-stack + Cybersecurity + Research = Triple Threat**
 
 ---
 
-### 🤝 Connect with me:
+## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ashwinasthanax/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-<a href="https://stackoverflow.com/users/31292425/ashwin-asthana" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/></a>
-<a href="https://instagram.com/ashwinasthana" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
-<a href="https://youtube.com/@ashwinasthanax" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/></a>
-<a href="https://leetcode.com/u/ashwinasthanax/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/ashwinasthanax/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://stackoverflow.com/users/31292425/ashwin-asthana" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/>
+</a>
+
+<a href="https://instagram.com/ashwinasthana" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+
+<a href="https://youtube.com/@ashwinasthanax" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
+</a>
+
+<a href="https://leetcode.com/u/ashwinasthanax/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+</a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🛠️ Languages & Tools
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
@@ -58,40 +72,40 @@
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashwinasthana&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://streak-stats.demolab.com?user=ashwinasthana&theme=tokyonight" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwinasthana&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=ashwinasthana&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
 
-### 🧠 Top Languages
+# 🧠 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinasthana&layout=compact&theme=tokyonight&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinasthana&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=1800"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashwinasthana&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashwinasthana&theme=tokyonight&no-frame=true&margin-w=15&column=4&cache_seconds=1800"/>
 </p>
 
 ---
 
-### 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinasthana&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinasthana&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
 ---
 
-### ☕ Support My Work
+# ☕ Support Me
 
 <p align="left">
 <a href="https://ko-fi.com/ashwinasthana">
@@ -106,5 +120,5 @@
 </p>
 
 <p align="center">
-<i>⭐️ Let's connect and build something amazing together! ⭐️</i>
+⭐️ Let’s build something legendary together ⭐️
 </p>
