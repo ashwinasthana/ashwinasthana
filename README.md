@@ -82,25 +82,30 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinasthana&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinasthana&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinasthana&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180em" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinasthana&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinasthana&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinasthana&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&langs_count=10" alt="Top Languages" />
+</div>
 
 ---
 
 ### 🏆 GitHub Trophies:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwinasthana&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashwinasthana&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📈 Contribution Graph:
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinasthana&theme=tokyo-night&hide_border=false" alt="Contribution Graph" />
+</div>
 
 ---
 
@@ -114,6 +119,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>⭐️ Let's connect and build something amazing together! ⭐️</i>
 </p>
