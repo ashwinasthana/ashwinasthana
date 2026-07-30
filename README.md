@@ -1,11 +1,11 @@
 <!--
-  Setup note: this file expects assets/banner.svg to live in this same
+  Setup note: this file expects assets/banner.png to live in this same
   repository (your GitHub profile repo, ashwinasthana/ashwinasthana),
-  on the default branch, at the path assets/banner.svg.
+  on the default branch, at the path assets/banner.png.
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ashwinasthana/ashwinasthana/main/assets/banner.svg" width="100%" alt="Ashwin Asthana — full-stack engineer, security researcher, founder of Lumozion" />
+  <img src="https://raw.githubusercontent.com/ashwinasthana/ashwinasthana/main/assets/banner.png" width="100%" alt="Ashwin Asthana — full-stack engineer, security researcher, founder of Lumozion" />
 </div>
 
 <div align="center">
