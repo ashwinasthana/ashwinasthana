@@ -70,8 +70,8 @@ Records original Hindi/Hinglish hip-hop on the side — Logic Pro X and an AKAI 
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashwinasthana&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1321&title_color=C9A227&text_color=F1EFE7&icon_color=3FB8AF&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinasthana&layout=compact&hide_border=true&bg_color=0D1321&title_color=C9A227&text_color=F1EFE7&langs_count=8&cache_seconds=1800" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ashwinasthana&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1321&title_color=C9A227&text_color=F1EFE7&icon_color=3FB8AF&cache_seconds=1800" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ashwinasthana&layout=compact&hide_border=true&bg_color=0D1321&title_color=C9A227&text_color=F1EFE7&langs_count=8&cache_seconds=1800" height="165"/>
 </div>
 
 <br/>
