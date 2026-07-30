@@ -1,11 +1,11 @@
 <!--
-  Setup note: this file expects assets/banner.svg to live in this same
+  Setup note: this file expects assets/banner.png to live in this same
   repository (your GitHub profile repo, ashwinasthana/ashwinasthana),
-  on the default branch, at the path assets/banner.svg.
+  on the default branch, at the path assets/banner.png.
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ashwinasthana/ashwinasthana/main/assets/banner.svg" width="100%" alt="Ashwin Asthana — full-stack engineer, security researcher, founder of Lumozion" />
+  <img src="https://raw.githubusercontent.com/ashwinasthana/ashwinasthana/main/assets/banner.png" width="100%" alt="Ashwin Asthana — full-stack engineer, security researcher, founder of Lumozion" />
 </div>
 
 <div align="center">
@@ -70,8 +70,8 @@ Records original Hindi/Hinglish hip-hop on the side — Logic Pro X and an AKAI 
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashwinasthana&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1321&title_color=C9A227&text_color=F1EFE7&icon_color=3FB8AF&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinasthana&layout=compact&hide_border=true&bg_color=0D1321&title_color=C9A227&text_color=F1EFE7&langs_count=8&cache_seconds=1800" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ashwinasthana&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1321&title_color=C9A227&text_color=F1EFE7&icon_color=3FB8AF&cache_seconds=1800" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ashwinasthana&layout=compact&hide_border=true&bg_color=0D1321&title_color=C9A227&text_color=F1EFE7&langs_count=8&cache_seconds=1800" height="165"/>
 </div>
 
 <br/>
