@@ -25,7 +25,7 @@
 
 ### Abstract
 
-Ashwin Asthana is a full-stack engineer and security researcher based in Delhi, currently reading Computer Applications at IITM College of Engineering (9.21 SGPA, first semester). His work runs on two tracks at once: applied systems, through **Lumozion**, the AI/web studio he founded, and applied research, with four published papers and a recent presentation on **CVE-2025-32463**, a sudo privilege-escalation vulnerability. He's also a member of Anthropic's Claude Partner Network. When neither of those is open, there's usually a DAW running instead.
+Ashwin Asthana is a full-stack engineer and security researcher based in Delhi, reading Computer Applications at IITM College of Engineering (BCA, Semester 3 — 9.21 / 9.29 SGPA). His work runs on two tracks: applied systems through **Lumozion**, the AI/web studio he founded, and adversarial ML research, most notably **HinGlyph Attacks**, a study of cross-script adversarial vulnerabilities in multilingual LLMs (Zenodo, DOI 10.5281/zenodo.17064850), plus a multimodal deep-learning paper on early cancer prediction (Zenodo, DOI 10.5281/zenodo.17453279). Awarded Best Paper Presenter at ICETIEMT-2026 for work on sudo privilege escalation.
 
 <br/>
 
@@ -60,6 +60,13 @@ Ashwin Asthana is a full-stack engineer and security researcher based in Delhi, 
 ▸ **Noxodus**, formerly Verdictum — an "AI Court" for Discord: bring a dispute, get a verdict. Built on discord.js, Groq, Supabase, Next.js, and Stripe<br/>
 ▸ **RepoLens** — points an LLM at a GitHub repo and has it explain the thing back to you; selected at the Matrix 3.0 Hackathon<br/>
 ▸ [ashwinasthana.me](https://ashwinasthana.me) — portfolio and case studies
+
+---
+
+### Publications
+
+- **HinGlyph Attacks: Cross-Script Adversarial Vulnerabilities in Multilingual LLMs** — Zenodo, DOI [10.5281/zenodo.17064850](https://doi.org/10.5281/zenodo.17064850)
+- **Multimodal Deep Learning for Early Cancer Prediction** — Zenodo, DOI [10.5281/zenodo.17453279](https://doi.org/10.5281/zenodo.17453279)
 
 ---
 
